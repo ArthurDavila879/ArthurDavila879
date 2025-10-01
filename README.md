@@ -4,7 +4,7 @@
 
 <p align="left">Estudante de Ciência da Computação no 2º período na UVV, com foco em desenvolvimento de software. Possuo experiência prática em projetos acadêmicos com HTML, CSS, JavaScript e banco de dados PostgreSQL. Busco uma oportunidade de estágio para aplicar e aprimorar minhas habilidades em um ambiente profissional, contribuindo para o desenvolvimento de soluções tecnológicas inovadoras. traduza para o ingles.</p>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arthur-d-avila-7514a034b/" target="_blank">
@@ -14,11 +14,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-###
+
 <h2 align="left">Linguagens e Tecnologias</h2>
 
 
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />

@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 
 </div>
-###
+
 <h2 align="left">Estatísticas</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDavila879&show_icons=true&theme=gotham)

@@ -2,7 +2,7 @@
 
 
 
-<p align="left">Estudante de Ciência da Computação no 2º período na UVV, com foco em desenvolvimento de software. Possuo experiência prática em projetos acadêmicos com HTML, CSS, JavaScript e banco de dados PostgreSQL. Busco uma oportunidade de estágio para aplicar e aprimorar minhas habilidades em um ambiente profissional, contribuindo para o desenvolvimento de soluções tecnológicas inovadoras. traduza para o ingles.</p>
+<p align="left">Estudante de Ciência da Computação no 2º período na UVV, com foco em desenvolvimento de software. Possuo experiência prática em projetos acadêmicos com HTML, CSS, JavaScript e banco de dados PostgreSQL. Busco uma oportunidade de estágio para aplicar e aprimorar minhas habilidades em um ambiente profissional, contribuindo para o desenvolvimento de soluções tecnológicas inovadoras.</p>
 
 
 

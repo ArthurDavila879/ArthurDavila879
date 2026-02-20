@@ -41,9 +41,4 @@
 
 </div>
 
-<h2 align="left">Estatísticas</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDavila879&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDavila879&theme=gotham&layout=compact)
-
 

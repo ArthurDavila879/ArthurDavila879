@@ -31,8 +31,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" />
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDavila879&layout=compact&theme=tokyonight)
----
 
 # 📌 Featured Projects
 

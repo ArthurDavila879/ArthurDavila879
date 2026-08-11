@@ -5,7 +5,7 @@
 🎓 Computer Science student at UVV (Universidade Vila Velha)
 💻 Backend Developer in training
 ☕ Focused on Java, Spring Boot and REST API development
-🚀 Looking for my first internship in Software Development — Grande Vitória, ES
+🚀 Currently interning at RADA, working on third-party API integrations (insurers, health operators, consortium admins)
 📌 Interests:
 - Backend Development
 - REST APIs & Microservices

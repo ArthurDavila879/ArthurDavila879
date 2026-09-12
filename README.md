@@ -2,10 +2,11 @@
 
 # 👋 Hello, I'm Arthur D'Avila
 
-🎓 Computer Science student at UVV (Universidade Vila Velha)
+🎓 Computer Science student at UVV (Universidade Vila Velha), 4th semester
 💻 Backend Developer in training
-☕ Focused on Java, Spring Boot and REST API development
-🚀 Currently interning at RADA, working on third-party API integrations (insurers, health operators, consortium admins)
+🔧 Currently focused on PHP/Laravel, with a solid base in Java and Spring Boot
+🚀 Interning at Orbtex Brasil, building REST APIs with PHP/Laravel and working on integrations with insurers, health operators and consortium admins (Tokio Marine, Bradesco Seguros)
+🔬 Undergraduate research scholar (PIIC/UVV) — developing a fullstack anti-plagiarism system for text
 📌 Interests:
 - Backend Development
 - REST APIs & Microservices
@@ -18,10 +19,10 @@
 # 🚀 Tech Stack
 
 ### 💻 Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
 
 ### ⚙️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40"/><img width="12" /><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" height="28"/><img width="12" /><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40"/><img width="12" /><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" height="28"/><img width="12" /><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" height="28"/>
 
 ### 🗄️ Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>
@@ -34,17 +35,27 @@
 
 ---
 
-# 📌 Featured Project
+# 📌 Featured Projects
+
+### 🔹 [TaskApi (Laravel)](https://github.com/ArthurDavila879/TaskApi_Laravel)
+REST API for users and tasks built with **PHP + Laravel**.
+
+- 🔐 **Authentication:** Laravel Sanctum (tokens with abilities) + role-based access control (admin/user) via Policies and Middleware
+- 🗄️ **Persistence:** Service layer, FormRequests and JsonResources for clean separation of concerns
+- 🌐 **Integrations:** external ViaCEP API, email notification on task creation
+- 📄 **Docs:** OpenAPI docs via dedoc/scramble
+- ✅ **Testing:** automated tests via `php artisan test`
+- 🐳 **Containerization:** Docker, with a React front-end consuming the API
 
 ### 🔹 [Task Manager API](https://github.com/ArthurDavila879/spring-task-api)
-Secure, production-ready REST API built with **Java + Spring Boot**, developed as an internship portfolio centerpiece.
+Secure REST API built with **Java + Spring Boot**, developed as a portfolio centerpiece.
 
-- 🔐 **Authentication:** JWT (auth0, HMAC256, 2h expiration) + Spring Security with role-based access control
-- 🔑 **Security:** BCrypt password hashing, centralized user registration via `/auth/register`
-- 🗄️ **Persistence:** MySQL with One-to-Many relationships, DTOs for clean data exposure
+- 🔐 **Authentication:** JWT (HMAC256) + Spring Security with role-based access control
+- 🔑 **Security:** BCrypt password hashing, DTOs for clean data exposure
+- 🗄️ **Persistence:** MySQL with One-to-Many relationships
 - ✅ **Testing:** JUnit 5 + Mockito unit/integration tests
 - 📄 **Docs:** Springdoc OpenAPI / Swagger UI
-- 🐳 **Containerization:** Multi-stage Dockerfile + Docker Compose (API + MySQL with healthcheck)
+- 🐳 **Containerization:** Multi-stage Dockerfile + Docker Compose (API + MySQL)
 - 🌐 9 REST endpoints covering full task management CRUD + auth flow
 
 ---
@@ -54,8 +65,6 @@ Secure, production-ready REST API built with **Java + Spring Boot**, developed a
 - Oracle Database Foundations
 - Git & GitHub (FGV)
 - Excel (Bradesco)
-
-📍 Currently studying for **AWS Certified Cloud Practitioner**
 
 ---
 

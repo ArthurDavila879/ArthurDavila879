@@ -3,7 +3,7 @@
 🎓 Computer Science student at UVV (Universidade Vila Velha), 4th semester
 💻 Backend Developer in training
 🔧 Currently focused on PHP/Laravel, with a solid base in Java and Spring Boot
-🚀 Interning at Orbtex Brasil, building REST APIs with PHP/Laravel and working on integrations with insurers, health operators and consortium admins (Tokio Marine, Bradesco Seguros)
+🚀 Interning at Orbtex Brasil, building REST APIs with PHP/Laravel and working on integrations
 🔬 Undergraduate research scholar (PIIC/UVV) — developing a fullstack anti-plagiarism system for text
 📌 Interests:
 - Backend Development

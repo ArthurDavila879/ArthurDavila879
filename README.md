@@ -1,15 +1,16 @@
 # 👋 Hello, I'm Arthur D'Avila
 
 🎓 Computer Science student at UVV (Universidade Vila Velha), 4th semester
-💻 Backend Developer in training
+💻 Backend developer in training, expanding into security, data and automation
 🔧 Currently focused on PHP/Laravel, with a solid base in Java and Spring Boot
-🚀 Interning at Orbtex Brasil, building REST APIs with PHP/Laravel and working on integrations
+🚀 Interning at Orbtex Brasil, building REST APIs with PHP/Laravel and working on third-party integrations
 🔬 Undergraduate research scholar (PIIC/UVV) — developing a fullstack anti-plagiarism system for text
 📌 Interests:
-- Backend Development
-- REST APIs & Microservices
+- Application Security (authentication, authorization, access control)
+- Data Analysis with Python
+- Automation & CI/CD
+- Backend Development & REST APIs
 - Databases & Data Modeling
-- Software Architecture
 - Cloud & Containerization
 
 ---
@@ -31,7 +32,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" />
 
 ### 🧪 Testing
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="28"/><img width="8" /><img src="https://img.shields.io/badge/Mockito-C5D9C8?style=flat" height="28"/>
+<img src="https://img.shields.io/badge/PHPUnit-777BB4?style=flat&logo=php&logoColor=white" height="28"/><img width="8" /><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="28"/><img width="8" /><img src="https://img.shields.io/badge/Mockito-C5D9C8?style=flat" height="28"/>
+
+### 📚 Currently learning
+- Linux & Bash scripting (Operating Systems course)
+- CI/CD with GitHub Actions
+- Data analysis with Python (pandas)
 
 ---
 
@@ -40,8 +46,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 ### 🔹 [TaskApi (Laravel)](https://github.com/ArthurDavila879/TaskApi_Laravel)
 REST API for users and tasks built with **PHP + Laravel**.
 
-- 🔐 **Authentication:** Laravel Sanctum (tokens with abilities) + role-based access control (admin/user) via Policies and Middleware
-- 🗄️ **Persistence:** Service layer, FormRequests and JsonResources for clean separation of concerns
+- 🔐 **Authentication & access control:** Laravel Sanctum (tokens with abilities) + role-based access control (admin/user) via Policies and Middleware
+- 🏗️ **Architecture:** Service layer, FormRequests and JsonResources for clean separation of concerns
 - 🌐 **Integrations:** external ViaCEP API, email notification on task creation
 - 📄 **Docs:** OpenAPI docs via dedoc/scramble
 - ✅ **Testing:** automated tests via `php artisan test`

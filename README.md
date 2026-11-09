@@ -1,68 +1,95 @@
 # 👋 Hello, I'm Arthur D'Avila
 
-🎓 Computer Science student at UVV (Universidade Vila Velha), 4th semester
-💻 Backend developer in training, expanding into security, data and automation
-🔧 Currently focused on PHP/Laravel, with a solid base in Java and Spring Boot
-🚀 Interning at Orbtex Brasil, building REST APIs with PHP/Laravel and working on third-party integrations
-🔬 Undergraduate research scholar (PIIC/UVV) — developing a fullstack anti-plagiarism system for text
-📌 Interests:
-- Application Security (authentication, authorization, access control)
-- Data Analysis with Python
-- Automation & CI/CD
-- Backend Development & REST APIs
-- Databases & Data Modeling
-- Cloud & Containerization
+- 🎓 Computer Science student at UVV (Universidade Vila Velha), 4th semester
+- 💻 Backend developer in training, expanding into data and AI
+- 🔧 Currently focused on PHP/Laravel, with a solid base in Java and Spring Boot
+- 🚀 Interning at Orbtex Brasil, building REST APIs with PHP/Laravel and third-party integrations (insurers, health operators, consortium administrators)
+- 🔬 Undergraduate research scholar (PIIC/UVV), developing a fullstack anti-plagiarism system for text
+
+### 📌 Focus areas
+- **Backend & REST APIs**: authentication, authorization, access control
+- **Data**: analysis with Python, data modeling, SQL
+- **AI**: LLMs and RAG applications
+- **DevOps**: Docker, CI/CD with GitHub Actions
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/><img width="12" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/><img width="12" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,java,python,js,html,css" />
 
-### ⚙️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40"/><img width="12" /><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" height="28"/><img width="12" /><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" height="28"/>
+**Backend & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,spring,fastapi" />
 
-### 🗄️ Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-### 🛠️ Tools & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" />
+**Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,postman,vscode,idea" />
 
-### 🧪 Testing
-<img src="https://img.shields.io/badge/PHPUnit-777BB4?style=flat&logo=php&logoColor=white" height="28"/><img width="8" /><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="28"/><img width="8" /><img src="https://img.shields.io/badge/Mockito-C5D9C8?style=flat" height="28"/>
+**Security, Docs & Testing**
+<br/>
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
 
 ### 📚 Currently learning
-- Linux & Bash scripting (Operating Systems course)
+- RAG pipelines: embeddings, vector search (pgvector), LLM evaluation
 - CI/CD with GitHub Actions
 - Data analysis with Python (pandas)
+- Linux & Bash scripting
 
 ---
 
 # 📌 Featured Projects
 
+### 🔹 [apidocs-rag](https://github.com/ArthurDavila879/apidocs-rag) · *in progress*
+RAG assistant that answers questions about API documentation (OpenAPI specs), built with **Python + FastAPI**.
+
+- 🧠 **RAG:** embeddings + vector search with PostgreSQL/pgvector, answers generated by an LLM (Gemini)
+- 📄 **Data source:** OpenAPI spec of Banco Central's Pix API as the sample documentation
+- 🐳 **Infra:** Docker Compose (API + PostgreSQL/pgvector)
+
 ### 🔹 [TaskApi (Laravel)](https://github.com/ArthurDavila879/TaskApi_Laravel)
 REST API for users and tasks built with **PHP + Laravel**.
 
-- 🔐 **Authentication & access control:** Laravel Sanctum (tokens with abilities) + role-based access control (admin/user) via Policies and Middleware
-- 🏗️ **Architecture:** Service layer, FormRequests and JsonResources for clean separation of concerns
-- 🌐 **Integrations:** external ViaCEP API, email notification on task creation
-- 📄 **Docs:** OpenAPI docs via dedoc/scramble
-- ✅ **Testing:** automated tests via `php artisan test`
+- 🔐 **Auth & access control:** Laravel Sanctum (tokens with abilities) + role-based access (admin/user) via Policies and Middleware
+- 🏗️ **Architecture:** Service layer, FormRequests and JsonResources
+- 🌐 **Integrations:** ViaCEP API, email notification on task creation
+- 📄 **Docs:** OpenAPI via dedoc/scramble
+- ✅ **Testing:** automated feature tests (`php artisan test`)
 - 🐳 **Containerization:** Docker, with a React front-end consuming the API
 
-### 🔹 [Task Manager API](https://github.com/ArthurDavila879/spring-task-api)
-Secure REST API built with **Java + Spring Boot**, developed as a portfolio centerpiece.
+### 🔹 [Task Manager API (Spring Boot)](https://github.com/ArthurDavila879/spring-task-api)
+Secure REST API built with **Java + Spring Boot**.
 
-- 🔐 **Authentication:** JWT (HMAC256) + Spring Security with role-based access control
-- 🔑 **Security:** BCrypt password hashing, DTOs for clean data exposure
-- 🗄️ **Persistence:** MySQL with One-to-Many relationships
-- ✅ **Testing:** JUnit 5 + Mockito unit/integration tests
+- 🔐 **Auth:** JWT (HMAC256) + Spring Security with role-based access control
+- 🔑 **Security:** BCrypt password hashing, DTOs to control data exposure
+- 🗄️ **Persistence:** MySQL with one-to-many relationships
+- ✅ **Testing:** JUnit 5 + Mockito
 - 📄 **Docs:** Springdoc OpenAPI / Swagger UI
-- 🐳 **Containerization:** Multi-stage Dockerfile + Docker Compose (API + MySQL)
-- 🌐 9 REST endpoints covering full task management CRUD + auth flow
+- 🐳 **Containerization:** multi-stage Dockerfile + Docker Compose (API + MySQL)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ArthurDavila879&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -75,8 +102,7 @@ Secure REST API built with **Java + Spring Boot**, developed as a portfolio cent
 ---
 
 # 📫 Contact
-💼 [LinkedIn](https://www.linkedin.com/in/arthur-d-avila-7514a034b/)
-📧 arthurdavila879@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-d-avila-7514a034b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurdavila879@gmail.com)
 
----
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>

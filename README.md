@@ -83,10 +83,13 @@ Secure REST API built with **Java + Spring Boot**.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ArthurDavila879&hide_border=true&theme=tokyonight&v=2" />
+</p>
 
 ---
 
